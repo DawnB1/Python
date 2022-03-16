@@ -1,3 +1,3 @@
 # Python
-welcome
-This repo is about the Python tutorial
+Welcome
+This repo is about Python...
